@@ -8,3 +8,8 @@
 ```
 git clone https://github.com/wpdew-com/wordpress .; rd .gitignore; rd readme.md; rm -r -fo .git
 ```
+
+## WordPress last oficial releases
+```
+git clone https://github.com/WordPress/WordPress .; rm -r -fo .git 
+```

@@ -6,7 +6,7 @@
 
 **1**. Установка в текущую папку с очисткой git папок 
 ```
-git clone https://github.com/wpdew-com/wordpress .; rd .gitignore; rd readme.md; rm -r -fo .git
+git clone https://github.com/wpdew-com/wordpress .; rm .gitignore; rm readme.md; rm -rf .git
 ```
 
 ## WordPress last oficial releases
